@@ -58,3 +58,8 @@ g. Account Page:
 The Account page of the Instagram Clone Using Flutter displays the user's profile information, their posts, followers, and following list. The page also includes the option to edit their profile information and to log out of the application.
 
 In conclusion, the Instagram Clone Using Flutter is a mobile application that allows users to have an Instagram-like experience. With its responsive UI and features, users can sign up, log in, browse posts, search for content, and perform other common Instagram activities.
+
+
+Authors 
+Nathnael Chilot 
+Tewodros Alimaw
